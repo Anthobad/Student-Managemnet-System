@@ -1,0 +1,51 @@
+Graduates of year 2025:
+  1. NAME: Carla Aboud     | ID: 20250050 | ACCEPTANCE YEAR: 2023 | MAJOR: mechanical engineering                  | THESIS TOPIC: fluid mechanics optimization
+  2. NAME: Dina Akiki      | ID: 20250022 | ACCEPTANCE YEAR: 2021 | MAJOR: chemical engineering                    | THESIS TOPIC: biofuel development
+  3. NAME: Ziad Asmar      | ID: 20250076 | ACCEPTANCE YEAR: 2021 | MAJOR: electrical engineering                  | THESIS TOPIC: IoT innovations
+  4. NAME: Reem Assaf      | ID: 20250018 | ACCEPTANCE YEAR: 2021 | MAJOR: public health                           | THESIS TOPIC: epidemiological modeling
+  5. NAME: Maya Barakat    | ID: 20250096 | ACCEPTANCE YEAR: 2021 | MAJOR: public health                           | THESIS TOPIC: healthcare accessibility
+  6. NAME: Sami Baroudi    | ID: 20250058 | ACCEPTANCE YEAR: 2022 | MAJOR: economics                               | THESIS TOPIC: behavioral finance
+  7. NAME: Mark Bassil     | ID: 20250024 | ACCEPTANCE YEAR: 2023 | MAJOR: business management                     | THESIS TOPIC: entrepreneurial leadership
+  8. NAME: Rami Chami      | ID: 20250090 | ACCEPTANCE YEAR: 2022 | MAJOR: computer science                        | THESIS TOPIC: AI for medical diagnosis
+  9. NAME: Hadi Chidiac    | ID: 20250026 | ACCEPTANCE YEAR: 2022 | MAJOR: architecture                            | THESIS TOPIC: heritage conservation
+ 10. NAME: Leila Daher     | ID: 20250074 | ACCEPTANCE YEAR: 2023 | MAJOR: public health                           | THESIS TOPIC: health policy evaluation
+ 11. NAME: Jad Darwish     | ID: 20250052 | ACCEPTANCE YEAR: 2022 | MAJOR: electrical engineering                  | THESIS TOPIC: smart grid technologies
+ 12. NAME: Tarek Fadel     | ID: 20250046 | ACCEPTANCE YEAR: 2024 | MAJOR: urban planning                          | THESIS TOPIC: sustainable city design
+ 13. NAME: Nader Farah     | ID: 20250056 | ACCEPTANCE YEAR: 2021 | MAJOR: public health                           | THESIS TOPIC: global disease prevention
+ 14. NAME: Tony Fares      | ID: 20250030 | ACCEPTANCE YEAR: 2023 | MAJOR: civil engineering                       | THESIS TOPIC: seismic-resistant structures
+ 15. NAME: Tamer Fares     | ID: 20250082 | ACCEPTANCE YEAR: 2021 | MAJOR: chemical engineering                    | THESIS TOPIC: water purification systems
+ 16. NAME: Elias Farhat    | ID: 20250034 | ACCEPTANCE YEAR: 2022 | MAJOR: mechanical engineering                  | THESIS TOPIC: advanced robotics
+ 17. NAME: Mira Ghanem     | ID: 20250028 | ACCEPTANCE YEAR: 2021 | MAJOR: nursing                                 | THESIS TOPIC: advanced pediatric care
+ 18. NAME: Rami Ghanem     | ID: 20250068 | ACCEPTANCE YEAR: 2024 | MAJOR: physics                                 | THESIS TOPIC: quantum computing research
+ 19. NAME: Lama Gharios    | ID: 20250054 | ACCEPTANCE YEAR: 2023 | MAJOR: business administration                 | THESIS TOPIC: e-commerce strategies
+ 20. NAME: Maria Haddad    | ID: 20250002 | ACCEPTANCE YEAR: 2023 | MAJOR: electrical engineering                  | THESIS TOPIC: renewable energy systems
+ 21. NAME: Omar Helou      | ID: 20250008 | ACCEPTANCE YEAR: 2024 | MAJOR: architecture                            | THESIS TOPIC: urban sustainability
+ 22. NAME: Jana Helou      | ID: 20250088 | ACCEPTANCE YEAR: 2023 | MAJOR: electrical engineering                  | THESIS TOPIC: solar power systems
+ 23. NAME: Elie Jabbour    | ID: 20250012 | ACCEPTANCE YEAR: 2021 | MAJOR: computer and communication engineering  | THESIS TOPIC: machine learning applications
+ 24. NAME: Hana Jaber      | ID: 20250064 | ACCEPTANCE YEAR: 2023 | MAJOR: architecture                            | THESIS TOPIC: environmental design
+ 25. NAME: May Jreij       | ID: 20250060 | ACCEPTANCE YEAR: 2024 | MAJOR: education                               | THESIS TOPIC: language acquisition in children
+ 26. NAME: Firas Kassem    | ID: 20250086 | ACCEPTANCE YEAR: 2022 | MAJOR: architecture                            | THESIS TOPIC: postmodern urban spaces
+ 27. NAME: Reem Khalaf     | ID: 20250038 | ACCEPTANCE YEAR: 2023 | MAJOR: mathematics                             | THESIS TOPIC: statistical modeling
+ 28. NAME: Jad Khalil      | ID: 20250080 | ACCEPTANCE YEAR: 2023 | MAJOR: business management                     | THESIS TOPIC: strategic leadership
+ 29. NAME: Ali Mansour     | ID: 20250040 | ACCEPTANCE YEAR: 2022 | MAJOR: computer science                        | THESIS TOPIC: cybersecurity frameworks
+ 30. NAME: Zeina Mansour   | ID: 20250078 | ACCEPTANCE YEAR: 2022 | MAJOR: biology                                 | THESIS TOPIC: genetic engineering
+ 31. NAME: Sarah Nasr      | ID: 20250094 | ACCEPTANCE YEAR: 2022 | MAJOR: biology                                 | THESIS TOPIC: virology research
+ 32. NAME: Sami Nassar     | ID: 20250020 | ACCEPTANCE YEAR: 2022 | MAJOR: chemistry                               | THESIS TOPIC: advanced polymer synthesis
+ 33. NAME: Leila Nassif    | ID: 20250098 | ACCEPTANCE YEAR: 2023 | MAJOR: marketing                               | THESIS TOPIC: social media influence
+ 34. NAME: Dana Rahbany    | ID: 20250014 | ACCEPTANCE YEAR: 2022 | MAJOR: nursing                                 | THESIS TOPIC: public health outreach
+ 35. NAME: Fadi Rizk       | ID: 20250044 | ACCEPTANCE YEAR: 2021 | MAJOR: chemistry                               | THESIS TOPIC: nanomaterials synthesis
+ 36. NAME: Layal Rizk      | ID: 20250072 | ACCEPTANCE YEAR: 2022 | MAJOR: marketing                               | THESIS TOPIC: consumer behavior analysis
+ 37. NAME: Layla Rjeily    | ID: 20250010 | ACCEPTANCE YEAR: 2022 | MAJOR: education                               | THESIS TOPIC: inclusive learning strategies
+ 38. NAME: Tony Saab       | ID: 20250066 | ACCEPTANCE YEAR: 2021 | MAJOR: mechanical engineering                  | THESIS TOPIC: energy systems modeling
+ 39. NAME: Rana Saad       | ID: 20250006 | ACCEPTANCE YEAR: 2022 | MAJOR: business administration                 | THESIS TOPIC: sustainable supply chain management
+ 40. NAME: Samer Saad      | ID: 20250048 | ACCEPTANCE YEAR: 2022 | MAJOR: education                               | THESIS TOPIC: teacher training methods
+ 41. NAME: Zeina Salameh   | ID: 20250032 | ACCEPTANCE YEAR: 2022 | MAJOR: economics                               | THESIS TOPIC: poverty alleviation strategies
+ 42. NAME: Ali Salameh     | ID: 20250100 | ACCEPTANCE YEAR: 2022 | MAJOR: mechanical engineering                  | THESIS TOPIC: autonomous vehicles development
+ 43. NAME: Hadi Samaha     | ID: 20250092 | ACCEPTANCE YEAR: 2024 | MAJOR: economics                               | THESIS TOPIC: macroeconomic stability
+ 44. NAME: Jad Sayegh      | ID: 20250016 | ACCEPTANCE YEAR: 2024 | MAJOR: business analytics                      | THESIS TOPIC: data-driven decision making
+ 45. NAME: Mark Sfeir      | ID: 20250062 | ACCEPTANCE YEAR: 2022 | MAJOR: computer science                        | THESIS TOPIC: blockchain security
+ 46. NAME: Dima Sleiman    | ID: 20250070 | ACCEPTANCE YEAR: 2023 | MAJOR: chemistry                               | THESIS TOPIC: drug delivery systems
+ 47. NAME: Dana Tannous    | ID: 20250042 | ACCEPTANCE YEAR: 2023 | MAJOR: biology                                 | THESIS TOPIC: cancer immunotherapy
+ 48. NAME: Leen Tannous    | ID: 20250084 | ACCEPTANCE YEAR: 2023 | MAJOR: education                               | THESIS TOPIC: STEM curriculum development
+ 49. NAME: Tarek Zaidan    | ID: 20250004 | ACCEPTANCE YEAR: 2021 | MAJOR: mechanical engineering                  | THESIS TOPIC: thermal fluid dynamics
+ 50. NAME: Hani Zeid       | ID: 20250036 | ACCEPTANCE YEAR: 2024 | MAJOR: marketing                               | THESIS TOPIC: digital branding

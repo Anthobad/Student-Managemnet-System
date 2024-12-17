@@ -1,0 +1,51 @@
+UnderGraduates of year 2025:
+  1. NAME: Rania Aridi     | ID: 20250081 | ACCEPTANCE YEAR: 2001 | FACULTY: arts and sciences | MAJOR: sociology                | YEARS TILL GRAD: 0 | DID GRADUATE: true
+  2. NAME: Rami Daher      | ID: 20250037 | ACCEPTANCE YEAR: 2000 | FACULTY: engineering       | MAJOR: civil engineering        | YEARS TILL GRAD: 0 | DID GRADUATE: true
+  3. NAME: John Doe        | ID: 20250001 | ACCEPTANCE YEAR: 1994 | FACULTY: arts and sciences | MAJOR: computer science         | YEARS TILL GRAD: 0 | DID GRADUATE: true
+  4. NAME: Ahmad Fawaz     | ID: 20250071 | ACCEPTANCE YEAR: 1999 | FACULTY: arts and sciences | MAJOR: mathematics              | YEARS TILL GRAD: 0 | DID GRADUATE: true
+  5. NAME: James Karim     | ID: 20250005 | ACCEPTANCE YEAR: 2000 | FACULTY: engineering       | MAJOR: civil engineering        | YEARS TILL GRAD: 0 | DID GRADUATE: true
+  6. NAME: Elias Rizk      | ID: 20250097 | ACCEPTANCE YEAR: 1998 | FACULTY: arts and sciences | MAJOR: history                  | YEARS TILL GRAD: 0 | DID GRADUATE: true
+  7. NAME: Karim Tohme     | ID: 20250017 | ACCEPTANCE YEAR: 2001 | FACULTY: arts and sciences | MAJOR: political science        | YEARS TILL GRAD: 0 | DID GRADUATE: true
+  8. NAME: Omar Younes     | ID: 20250059 | ACCEPTANCE YEAR: 1998 | FACULTY: engineering       | MAJOR: mechanical engineering   | YEARS TILL GRAD: 0 | DID GRADUATE: true
+  9. NAME: Tony Zaarour    | ID: 20250041 | ACCEPTANCE YEAR: 1999 | FACULTY: arts and sciences | MAJOR: business administration  | YEARS TILL GRAD: 0 | DID GRADUATE: true
+ 10. NAME: Lara Zein       | ID: 20250025 | ACCEPTANCE YEAR: 1956 | FACULTY: health sciences   | MAJOR: nutrition                | YEARS TILL GRAD: 0 | DID GRADUATE: true
+ 11. NAME: Rasha Aridi     | ID: 20250045 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: physics                  | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 12. NAME: Noor Assi       | ID: 20250061 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: biology                  | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 13. NAME: Elias Azar      | ID: 20250055 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: graphic design           | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 14. NAME: Yasmin Bitar    | ID: 20250047 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: accounting               | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 15. NAME: Zayn Chami      | ID: 20250013 | ACCEPTANCE YEAR: 2025 | FACULTY: health sciences   | MAJOR: environmental health     | YEARS TILL GRAD: 3 | DID GRADUATE: false
+ 16. NAME: Omar Chami      | ID: 20250033 | ACCEPTANCE YEAR: 2024 | FACULTY: arts and sciences | MAJOR: environmental sciences   | YEARS TILL GRAD: 2 | DID GRADUATE: false
+ 17. NAME: Lama Chidiac    | ID: 20250063 | ACCEPTANCE YEAR: 2025 | FACULTY: engineering       | MAJOR: civil engineering        | YEARS TILL GRAD: 5 | DID GRADUATE: false
+ 18. NAME: Jessica Fares   | ID: 20250011 | ACCEPTANCE YEAR: 2024 | FACULTY: arts and sciences | MAJOR: computer science         | YEARS TILL GRAD: 2 | DID GRADUATE: false
+ 19. NAME: Nour Farhat     | ID: 20250093 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: mathematics              | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 20. NAME: Rana Fawaz      | ID: 20250023 | ACCEPTANCE YEAR: 2024 | FACULTY: arts and sciences | MAJOR: international relations  | YEARS TILL GRAD: 2 | DID GRADUATE: false
+ 21. NAME: Jad Fayad       | ID: 20250095 | ACCEPTANCE YEAR: 2025 | FACULTY: engineering       | MAJOR: computer engineering     | YEARS TILL GRAD: 5 | DID GRADUATE: false
+ 22. NAME: Carla Gerges    | ID: 20250043 | ACCEPTANCE YEAR: 2025 | FACULTY: health sciences   | MAJOR: nursing                  | YEARS TILL GRAD: 3 | DID GRADUATE: false
+ 23. NAME: Lara Habib      | ID: 20250039 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: interior design          | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 24. NAME: Leen Hajj       | ID: 20250019 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: graphic design           | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 25. NAME: Jad Harb        | ID: 20250027 | ACCEPTANCE YEAR: 2025 | FACULTY: arts and sciences | MAJOR: history                  | YEARS TILL GRAD: 3 | DID GRADUATE: false
+ 26. NAME: Noor Hnein      | ID: 20250069 | ACCEPTANCE YEAR: 2025 | FACULTY: health sciences   | MAJOR: nursing                  | YEARS TILL GRAD: 3 | DID GRADUATE: false
+ 27. NAME: Nour Hoteit     | ID: 20250051 | ACCEPTANCE YEAR: 2025 | FACULTY: health sciences   | MAJOR: health sciences          | YEARS TILL GRAD: 3 | DID GRADUATE: false
+ 28. NAME: Tala Jaber      | ID: 20250089 | ACCEPTANCE YEAR: 2025 | FACULTY: arts and sciences | MAJOR: physics                  | YEARS TILL GRAD: 3 | DID GRADUATE: false
+ 29. NAME: Layal Kassab    | ID: 20250065 | ACCEPTANCE YEAR: 2024 | FACULTY: arts and sciences | MAJOR: psychology               | YEARS TILL GRAD: 2 | DID GRADUATE: false
+ 30. NAME: Ali Kassem      | ID: 20250009 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: economics                | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 31. NAME: Tarek Kfoury    | ID: 20250073 | ACCEPTANCE YEAR: 2025 | FACULTY: arts and sciences | MAJOR: economics                | YEARS TILL GRAD: 3 | DID GRADUATE: false
+ 32. NAME: Sara Khaled     | ID: 20250067 | ACCEPTANCE YEAR: 2022 | FACULTY: arts and sciences | MAJOR: sociology                | YEARS TILL GRAD: 0 | DID GRADUATE: false
+ 33. NAME: Sarah Khalil    | ID: 20250003 | ACCEPTANCE YEAR: 2024 | FACULTY: arts and sciences | MAJOR: biology                  | YEARS TILL GRAD: 2 | DID GRADUATE: false
+ 34. NAME: Nour Khoury     | ID: 20250015 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: mathematics              | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 35. NAME: Maya Khoury     | ID: 20250079 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: chemistry                | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 36. NAME: Nadim Mansour   | ID: 20250075 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: interior design          | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 37. NAME: Mira Melhem     | ID: 20250053 | ACCEPTANCE YEAR: 2024 | FACULTY: arts and sciences | MAJOR: political science        | YEARS TILL GRAD: 2 | DID GRADUATE: false
+ 38. NAME: Hiba Mounir     | ID: 20250035 | ACCEPTANCE YEAR: 2023 | FACULTY: health sciences   | MAJOR: biomedical sciences      | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 39. NAME: Maya Najm       | ID: 20250007 | ACCEPTANCE YEAR: 2025 | FACULTY: arts and sciences | MAJOR: physics                  | YEARS TILL GRAD: 3 | DID GRADUATE: false
+ 40. NAME: Ziad Nasr       | ID: 20250049 | ACCEPTANCE YEAR: 2024 | FACULTY: arts and sciences | MAJOR: computer science         | YEARS TILL GRAD: 2 | DID GRADUATE: false
+ 41. NAME: Adam Rami       | ID: 20250021 | ACCEPTANCE YEAR: 2022 | FACULTY: arts and sciences | MAJOR: sociology                | YEARS TILL GRAD: 0 | DID GRADUATE: false
+ 42. NAME: Nour Rami       | ID: 20250099 | ACCEPTANCE YEAR: 2024 | FACULTY: arts and sciences | MAJOR: accounting               | YEARS TILL GRAD: 2 | DID GRADUATE: false
+ 43. NAME: Karim Saab      | ID: 20250087 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: biology                  | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 44. NAME: Sarah Saade     | ID: 20250031 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: psychology               | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 45. NAME: Leila Sabeh     | ID: 20250057 | ACCEPTANCE YEAR: 2025 | FACULTY: engineering       | MAJOR: architecture             | YEARS TILL GRAD: 5 | DID GRADUATE: false
+ 46. NAME: Yara Sader      | ID: 20250077 | ACCEPTANCE YEAR: 2024 | FACULTY: engineering       | MAJOR: computer engineering     | YEARS TILL GRAD: 4 | DID GRADUATE: false
+ 47. NAME: Omar Sleiman    | ID: 20250083 | ACCEPTANCE YEAR: 2025 | FACULTY: arts and sciences | MAJOR: political science        | YEARS TILL GRAD: 3 | DID GRADUATE: false
+ 48. NAME: Lara Tohme      | ID: 20250091 | ACCEPTANCE YEAR: 2023 | FACULTY: arts and sciences | MAJOR: graphic design           | YEARS TILL GRAD: 1 | DID GRADUATE: false
+ 49. NAME: Nour Youssef    | ID: 20250029 | ACCEPTANCE YEAR: 2024 | FACULTY: engineering       | MAJOR: software engineering     | YEARS TILL GRAD: 4 | DID GRADUATE: false
+ 50. NAME: Nadine Zein     | ID: 20250085 | ACCEPTANCE YEAR: 2024 | FACULTY: arts and sciences | MAJOR: environmental sciences   | YEARS TILL GRAD: 2 | DID GRADUATE: false

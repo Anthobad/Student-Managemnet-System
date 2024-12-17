@@ -1,0 +1,101 @@
+2025
+UnderGrad John Doe 20250001 computer science 1994 arts and sciences
+Grad Maria Haddad 20250002 electrical engineering 2023 renewable energy systems
+UnderGrad Sarah Khalil 20250003 biology 2024 arts and sciences
+Grad Tarek Zaidan 20250004 mechanical engineering 2021 thermal fluid dynamics
+UnderGrad James Karim 20250005 civil engineering 2000 engineering
+Grad Rana Saad 20250006 business administration 2022 sustainable supply chain management
+UnderGrad Maya Najm 20250007 physics 2025 arts and sciences
+Grad Omar Helou 20250008 architecture 2024 urban sustainability
+UnderGrad Ali Kassem 20250009 economics 2023 arts and sciences
+Grad Layla Rjeily 20250010 education 2022 inclusive learning strategies
+UnderGrad Jessica Fares 20250011 computer science 2024 arts and sciences
+Grad Elie Jabbour 20250012 computer and communication engineering 2021 machine learning applications
+UnderGrad Zayn Chami 20250013 environmental health 2025 health sciences
+Grad Dana Rahbany 20250014 nursing 2022 public health outreach
+UnderGrad Nour Khoury 20250015 mathematics 2023 arts and sciences
+Grad Jad Sayegh 20250016 business analytics 2024 data-driven decision making
+UnderGrad Karim Tohme 20250017 political science 2001 arts and sciences
+Grad Reem Assaf 20250018 public health 2021 epidemiological modeling
+UnderGrad Leen Hajj 20250019 graphic design 2023 arts and sciences
+Grad Sami Nassar 20250020 chemistry 2022 advanced polymer synthesis
+UnderGrad Adam Rami 20250021 sociology 2022 arts and sciences
+Grad Dina Akiki 20250022 chemical engineering 2021 biofuel development
+UnderGrad Rana Fawaz 20250023 international relations 2024 arts and sciences
+Grad Mark Bassil 20250024 business management 2023 entrepreneurial leadership
+UnderGrad Lara Zein 20250025 nutrition 1956 health sciences
+Grad Hadi Chidiac 20250026 architecture 2022 heritage conservation
+UnderGrad Jad Harb 20250027 history 2025 arts and sciences
+Grad Mira Ghanem 20250028 nursing 2021 advanced pediatric care
+UnderGrad Nour Youssef 20250029 software engineering 2024 engineering
+Grad Tony Fares 20250030 civil engineering 2023 seismic-resistant structures
+UnderGrad Sarah Saade 20250031 psychology 2023 arts and sciences
+Grad Zeina Salameh 20250032 economics 2022 poverty alleviation strategies
+UnderGrad Omar Chami 20250033 environmental sciences 2024 arts and sciences
+Grad Elias Farhat 20250034 mechanical engineering 2022 advanced robotics
+UnderGrad Hiba Mounir 20250035 biomedical sciences 2023 health sciences
+Grad Hani Zeid 20250036 marketing 2024 digital branding
+UnderGrad Rami Daher 20250037 civil engineering 2000 engineering
+Grad Reem Khalaf 20250038 mathematics 2023 statistical modeling
+UnderGrad Lara Habib 20250039 interior design 2023 arts and sciences
+Grad Ali Mansour 20250040 computer science 2022 cybersecurity frameworks
+UnderGrad Tony Zaarour 20250041 business administration 1999 arts and sciences
+Grad Dana Tannous 20250042 biology 2023 cancer immunotherapy
+UnderGrad Carla Gerges 20250043 nursing 2025 health sciences
+Grad Fadi Rizk 20250044 chemistry 2021 nanomaterials synthesis
+UnderGrad Rasha Aridi 20250045 physics 2023 arts and sciences
+Grad Tarek Fadel 20250046 urban planning 2024 sustainable city design
+UnderGrad Yasmin Bitar 20250047 accounting 2023 arts and sciences
+Grad Samer Saad 20250048 education 2022 teacher training methods
+UnderGrad Ziad Nasr 20250049 computer science 2024 arts and sciences
+Grad Carla Aboud 20250050 mechanical engineering 2023 fluid mechanics optimization
+UnderGrad Nour Hoteit 20250051 health sciences 2025 health sciences
+Grad Jad Darwish 20250052 electrical engineering 2022 smart grid technologies
+UnderGrad Mira Melhem 20250053 political science 2024 arts and sciences
+Grad Lama Gharios 20250054 business administration 2023 e-commerce strategies
+UnderGrad Elias Azar 20250055 graphic design 2023 arts and sciences
+Grad Nader Farah 20250056 public health 2021 global disease prevention
+UnderGrad Leila Sabeh 20250057 architecture 2025 engineering
+Grad Sami Baroudi 20250058 economics 2022 behavioral finance
+UnderGrad Omar Younes 20250059 mechanical engineering 1998 engineering
+Grad May Jreij 20250060 education 2024 language acquisition in children
+UnderGrad Noor Assi 20250061 biology 2023 arts and sciences
+Grad Mark Sfeir 20250062 computer science 2022 blockchain security
+UnderGrad Lama Chidiac 20250063 civil engineering 2025 engineering
+Grad Hana Jaber 20250064 architecture 2023 environmental design
+UnderGrad Layal Kassab 20250065 psychology 2024 arts and sciences
+Grad Tony Saab 20250066 mechanical engineering 2021 energy systems modeling
+UnderGrad Sara Khaled 20250067 sociology 2022 arts and sciences
+Grad Rami Ghanem 20250068 physics 2024 quantum computing research
+UnderGrad Noor Hnein 20250069 nursing 2025 health sciences
+Grad Dima Sleiman 20250070 chemistry 2023 drug delivery systems
+UnderGrad Ahmad Fawaz 20250071 mathematics 1999 arts and sciences
+Grad Layal Rizk 20250072 marketing 2022 consumer behavior analysis
+UnderGrad Tarek Kfoury 20250073 economics 2025 arts and sciences
+Grad Leila Daher 20250074 public health 2023 health policy evaluation
+UnderGrad Nadim Mansour 20250075 interior design 2023 arts and sciences
+Grad Ziad Asmar 20250076 electrical engineering 2021 IoT innovations
+UnderGrad Yara Sader 20250077 computer engineering 2024 engineering
+Grad Zeina Mansour 20250078 biology 2022 genetic engineering
+UnderGrad Maya Khoury 20250079 chemistry 2023 arts and sciences
+Grad Jad Khalil 20250080 business management 2023 strategic leadership
+UnderGrad Rania Aridi 20250081 sociology 2001 arts and sciences
+Grad Tamer Fares 20250082 chemical engineering 2021 water purification systems
+UnderGrad Omar Sleiman 20250083 political science 2025 arts and sciences
+Grad Leen Tannous 20250084 education 2023 STEM curriculum development
+UnderGrad Nadine Zein 20250085 environmental sciences 2024 arts and sciences
+Grad Firas Kassem 20250086 architecture 2022 postmodern urban spaces
+UnderGrad Karim Saab 20250087 biology 2023 arts and sciences
+Grad Jana Helou 20250088 electrical engineering 2023 solar power systems
+UnderGrad Tala Jaber 20250089 physics 2025 arts and sciences
+Grad Rami Chami 20250090 computer science 2022 AI for medical diagnosis
+UnderGrad Lara Tohme 20250091 graphic design 2023 arts and sciences
+Grad Hadi Samaha 20250092 economics 2024 macroeconomic stability
+UnderGrad Nour Farhat 20250093 mathematics 2023 arts and sciences
+Grad Sarah Nasr 20250094 biology 2022 virology research
+UnderGrad Jad Fayad 20250095 computer engineering 2025 engineering
+Grad Maya Barakat 20250096 public health 2021 healthcare accessibility
+UnderGrad Elias Rizk 20250097 history 1998 arts and sciences
+Grad Leila Nassif 20250098 marketing 2023 social media influence
+UnderGrad Nour Rami 20250099 accounting 2024 arts and sciences
+Grad Ali Salameh 20250100 mechanical engineering 2022 autonomous vehicles development
